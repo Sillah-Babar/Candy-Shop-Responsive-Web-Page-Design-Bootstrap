@@ -1,11 +1,11 @@
 # Candy-Shop-Responsive-Web-Page-Design-Bootstrap 
-Bootstrap practice done using containers , flex and navbar
+Bootstrap practice done using containers , flex and navbar.
 
 ## Includes:
-1. Creation of responsive nav-bar that is customized accordingly
-2.  Creating sections of containers displaying information and pictures
-3.  Using css to style basic bootstrap components to our taste
-4.  Making the webpage reponsive and easy on the eyes using components such as order-1 , col-md-6 to change the container sizes , at different screen sizes
+1. Creation of responsive nav-bar that is customized accordingly.
+2.  Creating sections of containers displaying information and pictures.
+3.  Using css to style basic bootstrap components to our taste.
+4.  Making the webpage reponsive and easy on the eyes using components such as order-1 , col-md-6 to change the container sizes , at different screen sizes.
 
 ## Images
 
